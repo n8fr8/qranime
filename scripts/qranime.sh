@@ -8,6 +8,6 @@ while read line; do
     i=`expr $i + 1`	
 done < "$filename"
 
-convert -delay 25 $filename*.png -resize 240x240 -colors 2 $filename.gif
+convert -delay 15 $filename*.png -resize 240x240 -colors 2 $filename.gif
 rm $filename*.png
 
