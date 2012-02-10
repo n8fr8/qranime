@@ -19,7 +19,11 @@ and out you will receive a mygreatnovel.txt.gif animation
 
 /** HOW TO READ **/
 
-Use the Android Barcode Scanner app and activate Settings -> Bulk Mode
+1) Install the Android Barcode Scanner app
 https://market.android.com/details?id=com.google.zxing.client.android&hl=en
 
-Then press the "History" menu option to read the collected lines of text
+2) Enable the "Bulk Mode" scanning under Menu->Settings
+
+3) Activate and point the scanner at the animated code for awhile.
+
+4) Press the Menu->History option to read the collected lines of text
