@@ -6,7 +6,7 @@ They can contain encoded data of pretty much anyform.
 Imagine if you could transfer not just a link, but an entire story in the flickr of a few seconds. Or perhaps not just words, but actual logic, working code.
 "Everyone point your phone at the screen, and we will start the download."
 
-!https://github.com/n8fr8/qranime/raw/master/out/pioneers.txt.gif!
+![qranime](https://github.com/n8fr8/qranime/raw/master/out/pioneers.txt.gif)
 
 Mass, broadcast distribution of software through visual media. 
 Blipvert, Snowcrash...this idea has existed before in fiction. 
